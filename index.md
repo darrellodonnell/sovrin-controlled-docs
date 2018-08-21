@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Sovrin Controlled Documents
+
+![logo](banner.png)
+
 
 You can use the [editor on GitHub](https://github.com/darrellodonnell/sovrin-controlled-docs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
