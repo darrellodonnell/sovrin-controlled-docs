@@ -5,38 +5,37 @@ Prior Versions (link):
 
 ```
 
-The Sovrin Network will leverage a DLT that allows for the establishment 
-and operation of a public global utility that is sufficient to meet the 
-needs of our four basic requirements: governance, scalability, 
-accessibility, and privacy.
+## Purpose
 
-In recognition that all consensus protocols can only scale to a limited 
-number of write-permissioned nodes ("validators"), the approval process 
-for entities that are qualified to be granted ledger access must take 
-into consideration an entity's ability to sustain the costs of 
-supporting a public permissioned ledger. 
+an algorithm for deciding which nodes will participate in consensus, based on which ones are likely to add the least risk of network downtime. This algorithm may be implemented with manual analysis at first; later, we imagine coding it into software to make selection automated.
 
-It is the responsibility of the governing entity of the permissioned 
-network to establish approval criteria and an application review 
-process for qualified entities that are willing to sustain the costs 
-associated with the operation of a validator node while remaining in 
-compliance with the four basic requirements of the network: governance, 
-scalability, accessibility, and privacy. 
+## Algorithm
+A formal written description of Sovrin's Steward Selection Algorithm was captured as a reference implementation in a [Sovrin Improvement Proposal (SIP 5001)](https://github.com/sovrin-foundation/sovrin-sip/blob/master/text/5001-steward-selection-algorithm/README.md).
 
-In the spirit of decentralization and in accordance with our open governance requirements:
+This algorithm will be implemented using manual analysis as the STF2 goes into effect. Eventually, we imagine establishing software tools and processes to make the selection process automatic.
 
-* the operation of a validator node must not be bound to or influenced by reward or financial gain of any kind;
+## Data
+The selection algorithm requires real data to drive the selection process. The data needs to be harvested and analyzed.
 
-* the review criteria for validator nodes to be in the inactive-and-ready pool must ensure that an entity's operation of a validator node must not in anyway place the entity in an economic or power in-balance position with respect to the general users of the public network;  
+### Collection
+Initially, diversity and performance metrics will be manually gathered by Sovrin Foundation staff. It is the intent of the Sovrin Foundation to formalize both automated push and pull data collection techniques for Validator and Observer nodes as part of SFTv3.
 
-* a pool of qualified and approved validator nodes will be intermittently and systematically parsed for selection to be part of the active pool. 
+The Technical Governance Board in collaboration with the Steward Community will:
 
-The selection process for validator nodes in the active pool needs to balance between diversity and performance based on a standard that is implemented and maintained by the governing entity of the permisisoned network. 
+* establish the facets and associated data models for the monitoring of a node;
+* define and implement the infrastructure necessary to collect this data and subsequently publishing it to a public and transparent ```performance``` ledger .
 
-Any and all facets associated with diversity criteria should be within the scope of the following diversity definition "____"    
+### Scoring
 
-Any and all facets associated with performance criteria should be within the scope of the following functional, non-functional, operational, and non-operational definition "____"  
+Our selection algorithm operates on scored data. Currently, this scoring process is performed using manual human assessments over the data that is available.
 
+The Technical Governance Board in collaboration with the Steward Community will:
 
+* establish processes for how often the data is analyzed
+* establish procedures to determine which tools are used and how often to produce the scores
+* review analysis and coordinate adjustments as required to data facets and scoring models 
 
-# STF1/PSTF 
+## Selection
+Our selection algorithm is intermittently executed using a pool of available nodes and the ```performance``` ledger as inputs to select the nodes that will comprise the active set.
+
+The frequency of this selection process is currently monthly. Eventually, this should be a very frequent and automated process with selection refreshes as often as every hour.
