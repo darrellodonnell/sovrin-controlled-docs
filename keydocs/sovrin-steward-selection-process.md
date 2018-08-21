@@ -29,3 +29,7 @@ The selection process for validator nodes in the active pool needs to balance be
 Any and all facets associated with diversity criteria should be within the scope of the following diversity definition "____"    
 
 Any and all facets associated with performance criteria should be within the scope of the following functional, non-functional, operational, and non-operational definition "____"  
+
+
+
+# STF1/PSTF 
