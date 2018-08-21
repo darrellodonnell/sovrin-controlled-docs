@@ -10,6 +10,7 @@ Prior Versions (link):
 1. The Sovrin Foundation is the Trust Framework Authority (TFA) for the Sovrin Network and as such is the governing agent responsible for upholding the Sovrin Trust Framework.  
 
 1. There are four major requirements for the Sovrin Network to meet the needs of a self-sovereign identity network:
+
   1. Governance: how the network can be trusted by all stakeholders.
   1. Performance: how the network can provide self-sovereign identity at
   Internet scale.
