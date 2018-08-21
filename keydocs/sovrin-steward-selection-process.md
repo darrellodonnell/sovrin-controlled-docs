@@ -1,3 +1,10 @@
+# Sovrin Steward Selection Process
+```
+Last Revised: 28JUN2017 (PSTF)
+Prior Versions (link):
+
+```
+
 The Sovrin Network will leverage a DLT that allows for the establishment 
 and operation of a public global utility that is sufficient to meet the 
 needs of our four basic requirements: governance, scalability, 

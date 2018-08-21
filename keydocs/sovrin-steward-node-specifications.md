@@ -1,5 +1,9 @@
-## Sovrin Steward Node Criteria
+# Sovrin Steward Node Criteria
+```
+Last Revised: 28JUN2017 (PSTF)
+Prior Versions (link):
 
+```
 A Steward Node:
 1. MUST run as a Validator Node (Observer Nodes will not be introduced until the General
 Availability Network).
