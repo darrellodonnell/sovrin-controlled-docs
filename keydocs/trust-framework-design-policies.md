@@ -11,11 +11,10 @@ Prior Versions (link):
 
 1. There are four major requirements for the Sovrin Network to meet the needs of a self-sovereign identity network:
 
-  1. Governance: how the network can be trusted by all stakeholders.
-  1. Performance: how the network can provide self-sovereign identity at
-  Internet scale.
-  1. Accessibility: how the network can ensure that identity is available to all.
-  1. Privacy: how the network can meet the strongest privacy standards in the world.
+  * Governance: how the network can be trusted by all stakeholders.
+  * Performance: how the network can provide self-sovereign identity at Internet scale.
+  * Accessibility: how the network can ensure that identity is available to all.
+  * Privacy: how the network can meet the strongest privacy standards in the world.
 
 1. The Sovrin Network will leverage a DLT that allows for the establishment and operation of a public global utility that is sufficient to meet the needs of our four major requirements.
 

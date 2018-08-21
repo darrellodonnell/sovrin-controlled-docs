@@ -6,8 +6,7 @@ Prior Versions (link):
 ```
 
 ## Purpose
-
-an algorithm for deciding which nodes will participate in consensus, based on which ones are likely to add the least risk of network downtime. This algorithm may be implemented with manual analysis at first; later, we imagine coding it into software to make selection automated.
+Establish a transparent and fair process for the collecting and scoring of data. The results of which will be used by an algorithm for deciding which nodes will participate in consensus, based on which ones are likely to add the least risk of network downtime.
 
 ## Algorithm
 A formal written description of Sovrin's Steward Selection Algorithm was captured as a reference implementation in a [Sovrin Improvement Proposal (SIP 5001)](https://github.com/sovrin-foundation/sovrin-sip/blob/master/text/5001-steward-selection-algorithm/README.md).
@@ -33,7 +32,7 @@ The Technical Governance Board in collaboration with the Steward Community will:
 
 * establish processes for how often the data is analyzed
 * establish procedures to determine which tools are used and how often to produce the scores
-* review analysis and coordinate adjustments as required to data facets and scoring models 
+* review analysis and coordinate adjustments as required to data facets and scoring models
 
 ## Selection
 Our selection algorithm is intermittently executed using a pool of available nodes and the ```performance``` ledger as inputs to select the nodes that will comprise the active set.
