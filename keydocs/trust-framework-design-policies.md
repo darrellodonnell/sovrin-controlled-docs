@@ -11,11 +11,10 @@ Prior Versions (link):
 
 1. There are four major requirements for the Sovrin Network to meet the needs of a self-sovereign identity network:
 
-  1. Governance: how the network can be trusted by all stakeholders.
-  1. Performance: how the network can provide self-sovereign identity at
-  Internet scale.
-  1. Accessibility: how the network can ensure that identity is available to all.
-  1. Privacy: how the network can meet the strongest privacy standards in the world.
+   1. Governance: how the network can be trusted by all stakeholders.
+   1. Performance: how the network can provide self-sovereign identity at Internet scale.
+   1. Accessibility: how the network can ensure that identity is available to all.
+   1. Privacy: how the network can meet the strongest privacy standards in the world.
 
 1. The Sovrin Network will leverage a DLT that allows for the establishment and operation of a public global utility that is sufficient to meet the needs of our four major requirements.
 
@@ -27,11 +26,9 @@ Prior Versions (link):
 
 1. In the spirit of decentralization and in accordance with our open governance requirements:
 
-	1. the operation of a validator node must not be bound to or influenced by reward or financial gain of any kind;
-
-	1. the review criteria for validator nodes to be in the inactive-and-ready pool must ensure that an entity's operation of a validator node must not in anyway place the entity in an economic or power in-balance position with respect to the general users of the public network;  
-
-	1. a pool of qualified and approved validator nodes will be intermittently and systematically parsed for selection to be part of the active pool.
+   1. the operation of a validator node must not be bound to or influenced by reward or financial gain of any kind;
+   1. the review criteria for validator nodes to be in the inactive-and-ready pool must ensure that an entity's operation of a validator node must not in anyway place the entity in an economic or power in-balance position with respect to the general users of the public network;  
+   1. a pool of qualified and approved validator nodes will be intermittently and systematically parsed for selection to be part of the active pool.
 
 1. The selection process for validator nodes in the active pool needs to balance between *system diversity* and *performance* based on a standard that is implemented and maintained by the governing entity of the permissioned network. This selection process can be implemented using a scoring algorithm (which is used at network run-time). The algorithm  SHOULD consider the facets of datacenter diversity such as IT staff access, geography, legal, and political jurisdiction as independent factors but these factors must be balanced with historical performance history of a validator node.
 
