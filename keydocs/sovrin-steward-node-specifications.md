@@ -8,7 +8,7 @@ Prior Versions (link):
 ## STF2 Requirements
 A Steward Node:
 1. MUST meet or exceed the General Requirements.
-1. 1. MUST run a server with the most recent compatible version of the Ubuntu operating system as specified by the Hyperledger Indy Node requirements.
+1. MUST run a server with the most recent compatible version of the Ubuntu operating system as specified by the Hyperledger Indy Node requirements.
 1. MUST have 8 or more cores.
 1. MUST have at least 32 GB of RAM and an ample amount (e.g., 1-2 TB) of reliable (e.g., RAIDed) disk space.
 
