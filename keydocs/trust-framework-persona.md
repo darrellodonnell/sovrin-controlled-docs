@@ -28,6 +28,11 @@ Prior Versions (link):
 
 1. *Hosting Provider*: A Data Processor that has been commissioned by an approved Steward (Data Controller) to manage the operations (either on-premise or in the cloud) of the Steward nodes (validator, observers). Stewards remain contractually obligated to the Sovrin Foundation regardless of their use of a Hosting Provider. Depending on the terms of a Trust Framework, a Hosting Provider may need to be certified or may need to agree to a Hosting Provider Agreement contract with the Sovrin Foundation.
 
+1. *Currency Exchange*: An entity that has been approved by the TFA for the STF2 or a specific DSTF to perform lifecycle management services associated with a utility token. These entities provide services such as:
+	* Buying Sovrin Tokens with fiat or other types of tokens
+	* Exchanging Sovrin Tokens into fiat or other types of tokens
+	* Automated Wallet loading services (once balance gets below a threshold)
+
 ## Spectrum of Trust
 
 ![spectrum-of-trust](../diagrams/images/spectrum-of-trust.png)
