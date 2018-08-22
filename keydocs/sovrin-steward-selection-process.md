@@ -9,7 +9,7 @@ Prior Versions (link):
 Establish a transparent and fair process for the collecting and scoring of data. The results of which will be used by an algorithm for deciding which nodes will participate in consensus, based on which ones are likely to add the least risk of network downtime.
 
 ## Algorithm
-A formal written description of Sovrin's Steward Selection Algorithm was captured as a reference implementation in a [Sovrin Improvement Proposal (SIP 5001)](https://github.com/sovrin-foundation/sovrin-sip/blob/master/text/5001-steward-selection-algorithm/README.md).
+Based on an the [RBFT: Redundant Byzantine Fault Tolerance](https://pakupaku.me/plaublin/rbft/5000a297.pdf) paper published at the 2013 IEEE Conference on Distributed Computing Systems, the Sovrin's Steward Selection Algorithm was captured as a reference implementation in [Sovrin Improvement Proposal (SIP 5001)](https://github.com/sovrin-foundation/sovrin-sip/blob/master/text/5001-steward-selection-algorithm/README.md).
 
 This algorithm will be implemented using manual analysis as the STF2 goes into effect. Eventually, we imagine establishing software tools and processes to make the selection process automatic.
 
