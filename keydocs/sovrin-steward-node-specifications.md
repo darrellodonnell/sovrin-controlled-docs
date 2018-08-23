@@ -10,10 +10,12 @@ A Steward Node:
 1. MUST meet or exceed the General Requirements.
 1. MUST run a server with the most recent compatible version of the Ubuntu operating system as specified by the Hyperledger Indy Node requirements.
 1. MUST have 8 or more cores.
-1. MUST have at least 32 GB of RAM and an ample amount (e.g., 1-2 TB) of reliable (e.g., RAIDed) disk space.
+1. MUST have at least 32 GB of RAM
+1. MUST have at least 1 TB, with ability to grow to 2 TB, of reliable (e.g., RAIDed) disk space.
+1. MUST have a high-speed connection to the internet of at least 100 Mbps with highly available, redundant pipes.
 
 
-1. [PENDING REWRITE] MUST be a single machine, NOT a cluster. (High availability in Sovrin is achieved via the consensus algorithm; hot-swapped machines in a cluster configuration may actually make the network less reliable.)
+1. [PENDING DH REWRITE] MUST be a single machine, NOT a cluster. (High availability in Sovrin is achieved via the consensus algorithm; hot-swapped machines in a cluster configuration may actually make the network less reliable.)
 
 ## STF1 Requirements
 A Steward Node:
@@ -24,6 +26,7 @@ A Steward Node:
 1. MUST be a single machine, NOT a cluster. (High availability in Sovrin is achieved via the consensus algorithm; hot-swapped machines in a cluster configuration may actually make the network less reliable.)
 1. SHOULD have 2 or more cores.
 1. MUST have at least 8 GB of RAM and an ample amount (e.g., 1-2 TB) of reliable (e.g., RAIDed) disk space.
+1. SHOULD have high-speed (e.g., 100Mbit or gigabit) access to the internet—preferably with highly available, redundant pipes.
 
 ## General Requirements
 A Steward Node:
@@ -38,7 +41,6 @@ A Steward Node:
 1. MUST run in a machine that is dedicated to the validator, i.e., a single-purpose (physical or virtual) machine that does not provide services unrelated to Sovrin.
 1. MUST have at least one IT-qualified person assigned to administer the node, and at least one other person that has adequate access and training to administer the box in an emergency.
 1. MUST supply contact info for all administrators to the Sovrin Foundation, whose accuracy is tested at least quarterly (e.g., by sending an email and/or text that doesn’t bounce).
-1. SHOULD have high-speed (e.g., 100Mbit or gigabit) access to the internet—preferably with highly available, redundant pipes.
 1. SHOULD have at least one dedicated NIC for Sovrin Validator Node consensus traffic, and a different NIC to process external requests.
 1. MUST have a stable, static, world-routable IP address.
 1. SHOULD maintain a system backup or snapshot or image such that recovering the system from failure could be performed in an hour or less.
