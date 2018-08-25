@@ -7,7 +7,9 @@ Prior Versions (link):
 ## Network Governance
 >This section pertains to the polices associated with the participants and stakeholders that deal with the operation of the network.
 
-1. The Sovrin Foundation is the Trust Framework Authority (TFA) for the Sovrin Network and as such is the governing agent responsible for upholding the Sovrin Trust Framework.  
+1. The Sovrin Foundation is the Trust Framework Authority (TFA) for the Sovrin Network and as such is the governing agent responsible for upholding the Sovrin Trust Framework.
+
+1. The TFA is responsible for establishing an operating budget that is compliant with non-profit regulations and adequate enough to maintain the sustainability of the Sovin Network.  
 
 1. There are four major requirements for the Sovrin Network to meet the needs of a self-sovereign identity network:
 
@@ -46,3 +48,21 @@ Prior Versions (link):
 1. Any and all facets associated with *system diversity* criteria should be pertain to and be focused on maximize diversity of hosting locations, environments, networks, and systems in order to optimize availability and security.
 
 1. Any and all facets associated with *performance* criteria be pertain to and be focused on both functional and operational elements. Attention should be placed on recorded computational (functional) metrics for a node as well as the track record for the responsiveness of infrastructure and human support (operational) systems. For example, transaction speeds and DDoS attach history needs to be balanced alongside fire-drill grades and upgrade responsiveness.
+
+## Token Relevance
+A cryptocurrency is *not* necessary to meet the four major requirements for the Sovrin Network.
+
+The Sovrin Network does require a non-profit governing agency, a TFA, which must establish sustainable funding to cover its operating budget.
+
+Such sustainable funding can be achieve using a variety of business models. If the TFA decides to leverage a cryptocurrency token as the funding source, such a token MUST not detract from the four major requirements for the Sovrin Network.
+
+A Sovrin Token:
+
+1. SHOULD adhere to the legal parameters of a "utility token" so that it is not misconstrued as a "security token"
+1. COULD be used by the TFA as a:
+
+   1. Deterrent for spam attacks against the public network
+   1. Source of revenue for the TFA in accordance with the sustainable mission of the non-profit organization
+
+1. COULD be used by network users (Issuers, Holders, Verifier) as a convenience utility for the exchange of value associated with the exchange of identity between peers at the edges of the network
+1. MUST NOT be used by the TFA as a reward, gift or some form of payment for services rendered
