@@ -13,6 +13,10 @@ Prior Versions (link):
 	1. Operate ONLY one validator node.
 	1. Operate more than one observer nodes.
 	1. Only function in either Validator or Observer role at a given time.
+	
+STF2 Glossary: **Steward.** An Organization invited by the Sovrin Foundation to operate a Node. A Steward must meet the Steward Qualifications and agree to the Steward Obligations defined in the Sovrin Trust Framework. A Steward can run either a validator or an observer node.
+
+> REMAINDER OF THESE GLOSSARY TERMS ARE ALREADY IN THE STF2 GLOSSARY. 
 
 1. *Certified Issuer Credential* A digital certificate indicating that the Issuer is authorized to issue Credentials that are governed by a Trust Framework.
 

@@ -14,3 +14,5 @@ Prior Versions (link):
    1. A commercial organization that has made a clear and strong documented public commitment, including a financial commitment, to supporting the mission of the Sovrin Foundation.
 
 1. A Steward candidate MUST submit a written application to the Executive Director of the Sovrin Foundation or his/her designee self-attesting to the candidate’s qualifications according to the criteria above and explaining the candidate’s motivations to become a Sovrin Steward.
+
+

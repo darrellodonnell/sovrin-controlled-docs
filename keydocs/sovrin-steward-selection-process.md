@@ -5,6 +5,9 @@ Prior Versions (link):
 
 ```
 
+
+
+
 ## Purpose
 Establish a transparent and fair process for the collecting and scoring of data. The results of which will be used by an algorithm for deciding which nodes will participate in consensus, based on which ones are likely to add the least risk of network downtime.
 
