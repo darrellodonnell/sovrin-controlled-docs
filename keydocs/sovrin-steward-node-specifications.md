@@ -53,3 +53,11 @@ A Steward Node:
    3. Locks down egress ports to limit the ability to jump from Steward Node to some other location.
 1. SHOULD allow remote access (including over SSH) only with two-factor authentication.
 1. MUST NOT allow access (remote or local) by anyone other than assigned admins.
+
+
+
+# REFERENCED BY
+
+The following key documents rely on this file:
+
+* Sovrin Steward Agreement v2:
