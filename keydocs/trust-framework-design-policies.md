@@ -21,17 +21,17 @@ Prior Versions (link):
 ## Infrastructure Participation
 1. As an implementation of a public-permissioned global ledger comprised of ```nodes```, network addressable processing units, the governing agent of the Sovrin Network will define the processes associated with participation qualification and active state selection for each node. Specifically, policies need to be established for:
 
-  1. the qualification criteria for determining which entities can be invited to operate nodes in the network
-  1. Algorithm selection criteria that will determine which set of nodes are active at anyone time in the network.
+   1. the qualification criteria for determining which entities can be invited to operate nodes in the network
+   1. Algorithm selection criteria that will determine which set of nodes are active at anyone time in the network.
 
 1. Invitation qualification criteria MUST take into consideration:
 
-  1. Stewards can run more than one read--permissioned nodes ("observers") so that the pool of ready and available nodes is large enough to handle public access at global scale
-  1. The pool of active write-permissioned nodes ("validators") need not be large since consensus protocols can only scale to an optimal threshold, a limited number
-  1. The state of a Steward's nodes at any one time (ready, active-observers, active-validator) should have no bearing on the entity's participation in then network
-  1. Participation as a Steward must require evidence of the entity's ability to sustain the costs (*shoulder the burden*) of supporting a public-permissioned ledger.
-  1. Stewards must be able to remain in compliance with the four basic requirements of the network: governance, scalability, accessibility, and privacy.
-  1. The *credibility* of a candidate since the the quality and trustworthiness of the Sovrin Network starts with the a users confidence in who is running it.
+   1. Stewards can run more than one read--permissioned nodes ("observers") so that the pool of ready and available nodes is large enough to handle public access at global scale
+   1. The pool of active write-permissioned nodes ("validators") need not be large since consensus protocols can only scale to an optimal threshold, a limited number
+   1. The state of a Steward's nodes at any one time (ready, active-observers, active-validator) should have no bearing on the entity's participation in then network
+   1. Participation as a Steward must require evidence of the entity's ability to sustain the costs (*shoulder the burden*) of supporting a public-permissioned ledger.
+   1. Stewards must be able to remain in compliance with the four basic requirements of the network: governance, scalability, accessibility, and privacy.
+   1. The *credibility* of a candidate since the the quality and trustworthiness of the Sovrin Network starts with the a users confidence in who is running it.
 
 1. It is the responsibility of the TFA that approved Stewards are provided explicit options for the data center geographic locations at time of approval and those options MUST be refreshed if not acted upon in a specific timeframe.
 
