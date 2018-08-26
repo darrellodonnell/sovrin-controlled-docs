@@ -33,7 +33,7 @@ Prior Versions (link):
    1. The state of a Steward's nodes at any one time (ready, active-observers, active-validator) should have no bearing on the entity's participation in then network
    1. Participation as a Steward must require evidence of the entity's ability to sustain the costs (*shoulder the burden*) of supporting a public-permissioned ledger.
    1. Stewards must be able to remain in compliance with the four basic requirements of the network: governance, scalability, accessibility, and privacy.
-   1. The *credibility* of a candidate since the the quality and trustworthiness of the Sovrin Network starts with the a users confidence in who is running it.
+   1. The *credibility* of a candidate since the quality and trustworthiness of the Sovrin Network starts with the a user's confidence in who is running it.
 
 1. It is the responsibility of the TFA that approved Stewards are provided explicit options for the data center geographic locations at time of approval and those options MUST be refreshed if not acted upon in a specific timeframe.
 
@@ -64,5 +64,5 @@ A Sovrin Token:
    1. Deterrent for spam attacks against the public network
    1. Source of revenue for the TFA in accordance with the sustainable mission of the non-profit organization
 
-1. COULD be used by network users (Issuers, Holders, Verifier) as a convenience utility for the exchange of value associated with the exchange of identity between peers at the edges of the network
+1. COULD be used by network users (Issuers, Holders, Verifier) as a convenience utility for the exchange of value in association with the exchange of identity between peers at the edges of the network
 1. MUST NOT be used by the TFA as a reward, gift or some form of payment for services rendered
