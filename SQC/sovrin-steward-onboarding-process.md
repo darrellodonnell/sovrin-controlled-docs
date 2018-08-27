@@ -2,7 +2,11 @@
 
 
 
-1. 30-Day...
+
+1. Upon executing the Steward Agreement the goal is to activate the Steward Node within 30-days of signing. 
+
+2. In the event that 
+
 
 //TODO: get current onboarding process doc.
 

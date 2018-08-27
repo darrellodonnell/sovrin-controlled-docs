@@ -1,4 +1,4 @@
-# Sovrin Node Transaction Data
+# Sovrin Node Transaction Information
 ```
 Last Revised: 2018-08-24
 Prior Versions (link): n/a

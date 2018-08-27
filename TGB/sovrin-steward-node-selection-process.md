@@ -20,7 +20,7 @@ This algorithm will be implemented using manual analysis as the STF2 goes into e
 The selection algorithm requires real data to drive the selection process. The data needs to be harvested and analyzed.
 
 ### Collection
-Initially, diversity and performance metrics will be manually gathered by Sovrin Foundation staff. It is the intent of the Sovrin Foundation to formalize both automated push and pull data collection techniques for Validator and Observer nodes as part of SFTv3.
+Initially, diversity and performance metrics will be manually gathered by Sovrin Foundation staff. It is the intent of the Sovrin Foundation to formalize both automated push and pull data collection techniques for Validator and Observer nodes as part of STFv3.
 
 The Technical Governance Board in collaboration with the Steward Community will:
 

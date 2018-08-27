@@ -4,6 +4,10 @@ Last Revised: 28JUN2017 (PSTF)
 Prior Versions (link):
 
 ```
+
+
+MOVED TO STF
+
 1. A Steward MUST belong to one of the following categories:
    1. A governmental body or agency, or an entity predominantly owned and controlled by the state, in a jurisdiction that is a member of the United Nations, has observer status in the United Nations, or participates in a specialized agency of the United Nations.
    1. A governmentally regulated institution (e.g., credit union, bank, healthcare provider, insurance company, etc.) with at least five (5) years operating history.

@@ -14,6 +14,9 @@ Prior Versions (link):
 	1. Operate more than one observer nodes.
 	1. Only function in either Validator or Observer role at a given time.
 	
+	
+STF1 Glossary: An Organization invited by the Sovrin Foundation to operate a Node. A Steward must meet the Steward Qualifications and agree to the Steward Obligations defined in the Sovrin Trust Framework. All Stewards are automatically Trust Anchors.
+
 STF2 Glossary: **Steward.** An Organization invited by the Sovrin Foundation to operate a Node. A Steward must meet the Steward Qualifications and agree to the Steward Obligations defined in the Sovrin Trust Framework. A Steward can run either a validator or an observer node.
 
 > REMAINDER OF THESE GLOSSARY TERMS ARE ALREADY IN THE STF2 GLOSSARY. 
