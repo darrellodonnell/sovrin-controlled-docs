@@ -1,4 +1,4 @@
-
+![logo](/sovrin-controlled-docs/images/banner.png)
 
 `// TODO/DECISION NEEDED: Merge into Single Document?`
 * [Node Technical Specifications](sovrin-steward-node-specifications.md)

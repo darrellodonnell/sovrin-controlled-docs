@@ -1,3 +1,5 @@
+![logo](/sovrin-controlled-docs/images/banner.png)
+
 # Sovrin Node Transaction Information
 ```
 Last Revised: 2018-08-24
