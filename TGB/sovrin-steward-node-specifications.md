@@ -16,9 +16,7 @@ A Steward Node:
 1. MUST have at least 1 TB, with ability to grow to 2 TB, of reliable (e.g., RAIDed) disk space.
 1. MUST have a high-speed connection to the internet of at least 100 Mbps with highly available, redundant pipes.
 
-
 1. [PENDING DH REWRITE] MUST be a single machine, NOT a cluster. (High availability in Sovrin is achieved via the consensus algorithm; hot-swapped machines in a cluster configuration may actually make the network less reliable.)
-
 
 ## General Requirements
 A Steward Node:
