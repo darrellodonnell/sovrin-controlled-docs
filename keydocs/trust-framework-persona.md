@@ -1,5 +1,4 @@
-
-![logo]('..\banner.png')
+![logo](../images/banner.png)
 # Trust Framework Persona
 ```
 Last Revised: 22AUG2018

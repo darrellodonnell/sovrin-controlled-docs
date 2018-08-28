@@ -1,4 +1,4 @@
-![logo](/sovrin-controlled-docs/images/banner.png)
+![logo](../images/banner.png)
 # Sovrin Steward Invitation Process
 ```
 Last Revised: 28JUN2017 (PSTF)
@@ -71,7 +71,8 @@ A Steward that has been Disqualified must re-apply to become a Steward. Past Ste
 
 The following key documents rely on this file:
 
-* Sovrin Steward Agreement v2:
+* Sovrin Steward Agreement V2
+* Sovrin Trust Framework V2
 
 
 Practice:An actionable process that fits a stated Sovrin Policy

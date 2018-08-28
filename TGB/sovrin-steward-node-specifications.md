@@ -1,4 +1,4 @@
-![logo](/sovrin-controlled-docs/images/banner.png)
+![logo](../images/banner.png)
 # Sovrin Steward Node Criteria
 ```
 Last Revised: 28JUN2017 (PSTF)

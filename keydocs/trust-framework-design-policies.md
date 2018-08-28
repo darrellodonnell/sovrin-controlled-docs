@@ -1,4 +1,4 @@
-![logo]('..\banner.png')
+![logo](../images/banner.png)
 
 # Trust by Design Policies
 ```
