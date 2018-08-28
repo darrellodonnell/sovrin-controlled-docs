@@ -30,15 +30,25 @@ commitment to serve as a Founding Steward.
 
 //TODO/TK: get current onboarding process doc.
 
+## Steward Reporting
+
+The following attributes will be reported by the Steward and kept up to date. Any substantive change must be reported within __TK (30 days) __. 
+
+* Underlying Hosting Structure 
+* network bandwidth
+* Jurisdiction controlling data centre
+* ... TK
+* 
 
 
 ## Sovrin Steward Disqualification and Remediation Policy
 
-A Steward will be removed from the Active Steward list when any of the following have occured:
+A Steward will be removed from the Active Steward list when any of the following have occurred:
+`//TODO: FLESH OUT THIS LIST - it is merely a placeholder - TGB? SQC?`
 
 * their Node(s) have failed to achieve 98% availability.
 * an Intrusion has been reported.
-* ...
+* ... 
 
 
 
@@ -48,7 +58,7 @@ Prior to full disqualification a Steward will be put into Suspension mode and be
 
 #### Warning Period Remediation
 
-A Steward that can satisfy the TGB that the conditions that caused Suspension can be returned to the Active Steward list. Failure to satisfy the TGB that a Steward has remediated the situation within __30__ days will automatically result in the Steward being Disqualified.
+A Steward that can satisfy the TGB that the conditions that caused Suspension can be returned to the Active Steward list. Failure to satisfy the TGB that a Steward has remediated the situation within __TK(30?)__ days will automatically result in the Steward being Disqualified.
 
 #### Disqualified Stewards
 

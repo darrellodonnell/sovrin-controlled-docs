@@ -2,25 +2,33 @@
 # Sovrin Steward Node Criteria
 ```
 Last Revised: 28JUN2017 (PSTF)
-Prior Versions (link):
+Prior Versions (link): 
 
 ```
+
+# TODO
+
+* change wording to be more self-declaratory.
+* 
 
 # Policies
 
 A Steward Node:
-1. MUST meet or exceed the General Requirements.
+
+1. MUST meet or exceed the General Requirements
 1. MUST run a server with the most recent compatible version of the Ubuntu operating system as specified by the Hyperledger Indy Node requirements.
 1. MUST have 8 or more cores.
 1. MUST have at least 32 GB of RAM
 1. MUST have at least 1 TB, with ability to grow to 2 TB, of reliable (e.g., RAIDed) disk space.
 1. MUST have a high-speed connection to the internet of at least 100 Mbps with highly available, redundant pipes.
+1. `[PENDING DH REWRITE]` MUST be a single machine, NOT a cluster. (High availability in Sovrin is achieved via the consensus algorithm; hot-swapped machines in a cluster configuration may actually make the network less reliable.)
 
-1. [PENDING DH REWRITE] MUST be a single machine, NOT a cluster. (High availability in Sovrin is achieved via the consensus algorithm; hot-swapped machines in a cluster configuration may actually make the network less reliable.)
+# General Requirements
 
-## General Requirements
+`TODO: make self-declaratory (is that a word?) - confirm with Ryan`
+
 A Steward Node:
-1. MUST run as a Validator Node or Observer Node.
+1. (makes no sense - code flips this) MUST run as a Validator Node or Observer Node.
 2. MUST run the current release of the Sovrin Open Source Code as designated by the Technical Governance Board.
 3. MUST upgrade to a new version of the Sovrin Open Source Code within 3 business days of notification of the new release by the secretary of the Technical Governance Board.
 4. MUST register all Node configuration data required by the Pool Ledger.

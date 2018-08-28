@@ -11,10 +11,10 @@ Managed by : Sovrin Economic Advisory Council
 ## Purpose
 This document outlines the types of transactions and the fee structure required for each. 
 
-Fee Types
+###Fee Types
 
 
-Fees
+### Fee-Based Transactions
 
 ### Zero Fee Transaction
 
@@ -24,9 +24,5 @@ Fees
 The following key documents rely on this file:
 
 * Sovrin Steward Agreement v2:
-
-
-Practice: An actionable process that fits a stated Sovrin Policy.
-Procedure: A component of action steps that fits a stated practice.
 
 

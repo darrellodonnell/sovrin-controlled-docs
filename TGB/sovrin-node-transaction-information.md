@@ -29,11 +29,9 @@ What is private? What can the Node operator (Steward) see and not see? Is privat
 
 ## DID Revocation
 
-
 ## DD Creation and Use
 
 ## Agent Provisioning Policy
-
 
 ## Revocation Registry Updates
 
