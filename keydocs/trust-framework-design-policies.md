@@ -1,3 +1,5 @@
+![logo]('..\banner.png')
+
 # Trust by Design Policies
 ```
 Last Revised: 22AUG2018

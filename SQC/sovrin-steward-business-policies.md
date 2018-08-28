@@ -1,3 +1,4 @@
+![logo]('..\banner.png')
 # Sovrin Steward Invitation Process
 ```
 Last Revised: 28JUN2017 (PSTF)

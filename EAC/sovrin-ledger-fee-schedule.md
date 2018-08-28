@@ -26,5 +26,7 @@ The following key documents rely on this file:
 * Sovrin Steward Agreement v2:
 
 
-Practice:An actionable process that fits a stated Sovrin Policy
+Practice: An actionable process that fits a stated Sovrin Policy.
 Procedure: A component of action steps that fits a stated practice.
+
+
