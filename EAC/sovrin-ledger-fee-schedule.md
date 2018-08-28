@@ -1,5 +1,4 @@
-![logo](/sovrin-controlled-docs/images/banner.png)
-
+![logo](../images/banner.png)
 
 # Sovrin Ledger Fee Schedule
 
@@ -18,11 +17,14 @@ This document outlines the types of transactions and the fee structure required 
 
 ### Zero Fee Transaction
 
+### Practices
+
+The Ledger Fee Table will be update by authorized BoT members using ______ mechanism.
 
 # REFERENCED BY
 
 The following key documents rely on this file:
 
 * Sovrin Steward Agreement v2:
-
+* 
 
