@@ -2,7 +2,7 @@
 
 
 
-## Sovrin Controlled Documents
+# Sovrin Controlled Documents
 This repository is a work-in-progress intended to be moved into the Sovrin Foundation's repositories after the Helsinki F2F sessions. The documents here are evolving and should not be construed as normative until they are under the control of the Sovrin Foundation.
 
 ## Steward Qualification Committee
@@ -27,6 +27,13 @@ TK: Charter Paragraph
 
 * [Sovrin Certification & Accreditation Policies](STFWG/sovrin-certification-and-accreditation-policies.md)
 
+
+## TO BE DISCUSSED/Works In Progress
+
+These documents are outside of the Controlled Document space and merely live in the same repository for now.
+
+* [Trust Framework Design Policies](keydocs/trust-framework-design-policies.md)
+* [Trust Framework Persona](keydocs/trust-framework-persona.md)
 
 
 

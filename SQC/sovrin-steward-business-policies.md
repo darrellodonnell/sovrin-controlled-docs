@@ -44,7 +44,8 @@ The following attributes will be reported by the Steward and kept up to date. An
 ## Sovrin Steward Disqualification and Remediation Policy
 
 A Steward will be removed from the Active Steward list when any of the following have occurred:
-`//TODO: FLESH OUT THIS LIST - it is merely a placeholder - TGB? SQC?`
+`
+//TODO: FLESH OUT THIS LIST - it is merely a placeholder - TGB? SQC?`
 
 * their Node(s) have failed to achieve 98% availability.
 * an Intrusion has been reported.
