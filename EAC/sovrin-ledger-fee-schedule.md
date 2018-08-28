@@ -1,4 +1,4 @@
-![logo]('..\banner.png')
+![logo](/banner.png)
 
 
 # Sovrin Ledger Fee Schedule

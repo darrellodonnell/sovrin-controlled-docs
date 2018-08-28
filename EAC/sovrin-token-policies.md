@@ -1,4 +1,4 @@
-
+![logo](/banner.png)
 # Sovrin Token Polices and Practices
 
 ```
