@@ -23,7 +23,6 @@ What is private? What can the Node operator (Steward) see and not see? Is privat
 
 ## Payment Transactions
 
-
 ## DID Creation & Update
 
 ## DID Revocation

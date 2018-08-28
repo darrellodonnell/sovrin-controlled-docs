@@ -17,20 +17,10 @@ A Steward Node:
 
 1. [PENDING DH REWRITE] MUST be a single machine, NOT a cluster. (High availability in Sovrin is achieved via the consensus algorithm; hot-swapped machines in a cluster configuration may actually make the network less reliable.)
 
-## STF1 Requirements
-A Steward Node:
-1. MUST meet or exceed the General Requirements.
-1. MUST run a server operating system that receives timely patches from its vendor or community.
-   1. For Linux, the base OS is less than 2.5 years old.
-   1. For Windows, the base OS is less than 4 years old.
-1. MUST be a single machine, NOT a cluster. (High availability in Sovrin is achieved via the consensus algorithm; hot-swapped machines in a cluster configuration may actually make the network less reliable.)
-1. SHOULD have 2 or more cores.
-1. MUST have at least 8 GB of RAM and an ample amount (e.g., 1-2 TB) of reliable (e.g., RAIDed) disk space.
-1. SHOULD have high-speed (e.g., 100Mbit or gigabit) access to the internet—preferably with highly available, redundant pipes.
 
 ## General Requirements
 A Steward Node:
-1. MUST run as a Validator Node (Observer Nodes will not be introduced until the General Availability Network).
+1. MUST run as a Validator Node or Observer Node.
 1. MUST run the current release of the Sovrin Open Source Code as designated by the Technical Governance Board.
 1. MUST upgrade to a new version of the Sovrin Open Source Code within 3 business days of notification of the new release by the secretary of the Technical Governance Board.
 1. MUST register all Node configuration data required by the Pool Ledger.

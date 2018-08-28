@@ -6,7 +6,12 @@ Prior Versions (link):
 ```
 
 
+## POLICIES:
 
+1. In the spirit of decentralization and in accordance with our open governance requirements: 
+   1. the operation of a validator node must not be bound to or influenced by reward or financial gain of any kind; 
+   2. the review criteria for validator nodes to be in the inactive-and-ready pool must ensure that an entity's operation of a validator node must not in anyway place the entity in an economic or power in-balance position with respect to the general users of the public network; 
+   3. a pool of qualified and approved validator nodes will be intermittently and systematically parsed for selection to be part of the active pool. 
 
 ## Purpose
 Establish a transparent and fair process for the collecting and scoring of data. The results of which will be used by an algorithm for deciding which nodes will participate in consensus, based on which ones are likely to add the least risk of network downtime.

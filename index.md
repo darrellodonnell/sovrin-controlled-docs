@@ -12,10 +12,10 @@ This repository is a work-in-progress intended to be moved into the Sovrin Found
 ### Key Specifications:
 * [Steward Qualifications](obsolete/sovrin-steward-qualifications.md)
 * [Steward Node Specifications](TGB/sovrin-steward-node-specifications.md)
-* [Steward Invitation Process](obsolete/sovrin-steward-invitation-process.md)
+* [Steward Invitation Process](SQC/sovrin-steward-business-policies.md)
 
 ### Key Processes:
-* [Steward Selection Process](TGB/sovrin-steward-node-selection-process.md)
+* [Steward Selection Process](TGB/sovrin-steward-node-operations.md)
 
 
 Served up at [github/darrellodonnell](https://darrellodonnell.github.io/sovrin-controlled-docs/) 
