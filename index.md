@@ -13,7 +13,7 @@ TK: Charter Paragraph
 ## TGB Controlled:
 TK: Charter Paragraph
 
-* [Steward Node Technical Policies](TGB/sovrin-steward-technical-policies.md)
+* [Steward Steward Technical Policies](TGB/sovrin-steward-technical-policies.md)
 * [Sovrin Ledger Transaction Information](TGB/sovrin-node-transaction-information.md)
 
 ## EAC Controlled:
@@ -25,7 +25,7 @@ TK: Charter Paragraph
 ## STFWG Controlled:
 TK: Charter Paragraph
 
-* [Sovrin Certification & Accreditation](STFWG/sovrin-certification-and-accreditation-policies.md)
+* [Sovrin Certification & Accreditation Policies](STFWG/sovrin-certification-and-accreditation-policies.md)
 
 
 
