@@ -37,7 +37,7 @@ Prior Versions (link):
    1. Stewards must be able to remain in compliance with the four basic requirements of the network: governance, scalability, accessibility, and privacy.
    1. A candidate's *credibility* since the quality and trustworthiness of the Sovrin Network starts with a participant's confidence in who is running it.
 
-1. It is the responsibility of the TFA that approved Stewards are provided suggestions for how and where to hosting their nodes so that infrastructure diversity goals are achievable. If reasonable time has elapsed between approval and node submission, the TFA SHOULD provide refreshed options to the Steward as guidance before node submission.
+1. It is the responsibility of the TFA that approved Stewards are provided suggestions for how and where to host their nodes so that infrastructure diversity goals are achievable. If reasonable time has elapsed between approval and node submission, the TFA SHOULD provide refreshed options to the Steward as guidance before node submission.
 
 1. In the spirit of decentralization and in accordance with our open governance requirements:
 
@@ -54,7 +54,7 @@ Prior Versions (link):
 ## Token Relevance
 A cryptocurrency is *not* necessary to meet the four major requirements for the Sovrin Network.
 
-The Sovrin Network does require a non-profit governing agency, a TFA, which must establish sustainable funding to cover its operating budget.
+The Sovrin Network does require a non-profit governing agent, a TFA, to provide a system of checks and balances. The TFA must establish sustainable funding to cover a transparent operating budget.
 
 Such sustainable funding can be achieve using a variety of business models. If the TFA decides to leverage a cryptocurrency token as the funding source, such a token MUST not detract from the four major requirements for the Sovrin Network.
 
@@ -65,7 +65,7 @@ A Sovrin Token:
 
    1. Deterrent for spam attacks against the public network
    1. Source of revenue for the TFA in accordance with the sustainable mission of the non-profit organization
-   1. Mechanism (bounty) for motivating developers to enrich the open source code used by the Sovrin Network 
+   1. Mechanism (bounty) for motivating developers to enrich the open source code used by the Sovrin Network
 
 1. COULD be used by network users (Issuers, Holders, Verifier) as a convenience utility for the exchange of value in association with the exchange of identity between peers at the edges of the network
 1. MUST NOT be used by the TFA as a:
