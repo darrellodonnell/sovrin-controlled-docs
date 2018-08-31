@@ -73,4 +73,4 @@ A Sovrin Token:
 
   1. Deterrent for spam attacks against the public network
   1. Source of revenue for the TFA in accordance with the sustainable mission of the non-profit organization
-  1. Mechanism (bounty), as an exception to the *reward* constraint,  for motivating developers to enrich the open source code used by the Sovrin Network
+  1. Mechanism (bounty), as an exception to the *reward* constraint, for motivating developers to enrich the open source code used by the Sovrin Network
