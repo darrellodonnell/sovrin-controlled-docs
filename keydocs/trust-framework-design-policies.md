@@ -61,12 +61,6 @@ Such sustainable funding can be achieve using a variety of business models. If t
 A Sovrin Token:
 
 1. SHOULD adhere to the legal parameters of a "utility token" so that it is not misconstrued as a "security token"
-1. COULD be used by the TFA as a:
-
-   1. Deterrent for spam attacks against the public network
-   1. Source of revenue for the TFA in accordance with the sustainable mission of the non-profit organization
-   1. Mechanism (bounty) for motivating developers to enrich the open source code used by the Sovrin Network
-
 1. COULD be used by network users (Issuers, Holders, Verifier) as a convenience utility for the exchange of value in association with the exchange of identity between peers at the edges of the network
 1. MUST NOT be used by the TFA as a:
 
@@ -74,3 +68,9 @@ A Sovrin Token:
    1. gift
    1. form of payment for services rendered
    1. subsidy for justifying / enabling participation as a Steward
+
+1. COULD be used by the TFA as a:
+
+  1. Deterrent for spam attacks against the public network
+  1. Source of revenue for the TFA in accordance with the sustainable mission of the non-profit organization
+  1. Mechanism (bounty), as an exception to the *reward* constraint,  for motivating developers to enrich the open source code used by the Sovrin Network
