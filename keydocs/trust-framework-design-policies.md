@@ -60,7 +60,7 @@ Such sustainable funding can be achieve using a variety of business models. If t
 
 A Sovrin Token:
 
-1. SHOULD adhere to the legal parameters of a "utility token" so that it is not misconstrued as a "security token"
+1. MUST adhere to the legal parameters of a "utility token" so that it is not misconstrued as a "security token"
 1. COULD be used by network users (Issuers, Holders, Verifier) as a convenience utility for the exchange of value in association with the exchange of identity between peers at the edges of the network
 1. MUST NOT be used by the TFA as a:
 
