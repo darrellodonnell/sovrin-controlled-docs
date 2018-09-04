@@ -21,9 +21,7 @@ A Steward Node:
 1. MUST have at least 32 GB of RAM
 1. MUST have at least 1 TB, with ability to grow to 2 TB, of reliable (e.g., RAIDed) disk space.
 1. MUST have a high-speed connection to the internet of at least 100 Mbps with highly available, redundant pipes.
-1. `[PENDING TGB APPROVAL for STF1 REQ15]`
-    1. FROM: MUST be a single machine, NOT a cluster. (High availability in Sovrin is achieved via the consensus algorithm; hot-swapped machines in a cluster configuration may actually make the network less reliable.)
-    1. TO: MUST be implemented by exactly ONE system process answering at exactly ONE pair of network addresses (client ip/port, validator ip/port), using exactly ONE set of credentials that are responding to Sovrin/Indy protocol traffic at any one time whereby the system process adheres to a minimal fail-over recovery delay period specified by the Sovrin Foundation (or 30 secs if not specified).
+1. MUST be implemented by exactly ONE system process answering at exactly ONE pair of network addresses (client ip/port, validator ip/port), using exactly ONE set of credentials that are responding to Sovrin/Indy protocol traffic at any one time whereby the system process adheres to a minimal fail-over recovery delay period specified by the Sovrin Foundation (or 30 secs if not specified).
 
 # General Requirements
 
