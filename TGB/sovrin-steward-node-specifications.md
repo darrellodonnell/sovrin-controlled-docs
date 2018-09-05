@@ -6,6 +6,9 @@ Prior Versions (link):
 
 ```
 
+MOVED TO GOOGLE DOCS FOR EDITING FOR NOW: https://docs.google.com/document/d/1xqKVgI46V0baV6GHpyNomgsoxtWqoExf0gBvwXb7iuM/edit?usp=sharing
+
+~~
 # TODO
 
 * change wording to be more self-declaratory.
@@ -62,3 +65,4 @@ The following key documents rely on this file:
 
 * Sovrin Steward Agreement V2
 * Sovrin Trust Framework V2
+~~
