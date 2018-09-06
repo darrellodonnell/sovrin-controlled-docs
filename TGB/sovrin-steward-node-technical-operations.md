@@ -1,6 +1,6 @@
 ![logo](../images/banner.png)
 
-# Sovrin Steward Selection Process
+# Node Selection Process
 ```
 Last Revised: 28JUN2017 (PSTF)
 Prior Versions (link):
