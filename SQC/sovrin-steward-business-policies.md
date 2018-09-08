@@ -18,8 +18,8 @@ Prior Versions (link):
    3. SHOULD give priority to qualified Organizations who volunteer to make the
 commitment to serve as a Founding Steward.
    4. SHOULD give priority to Social Purpose Organizations.
-
-3. When the Board of Trustees determines that there is a sufficient number of Stewards, the Sovrin Trust Framework SHOULD be revised to incorporate policies for ensuring System Diversity and Diffuse Trust that can be enforced algorithmically and dynamically by the Sovrin Open Source Code operating on all Nodes to determine which Nodes should be operating as Validator Nodes when they should so operate.
+3. No more than 10% of all consensus-participating Stewards must be subject to the same national jurisdiction(s). Both jurisdiction(s) of the Steward itself, and jurisdiction(s) of a potential hosting provider must be taken into account. If at the time of adoption of this policy this limit is already exceeded for certain jurisdictions, no existing Stewards should be eliminated, but new Stewards must only be invited if their addition does not lead to a limit being exceeded even further. If an approved Steward's jurisdictional status changes at a later time (e.g. incorporation in a new jurisdiction, or switching of hosting provider), and if this change leads to a limit being exceeded, then the Steward must be removed from participating in consensus.
+4. When the Board of Trustees determines that there is a sufficient number of Stewards, the Sovrin Trust Framework SHOULD be revised to incorporate policies for ensuring System Diversity and Diffuse Trust that can be enforced algorithmically and dynamically by the Sovrin Open Source Code operating on all Nodes to determine which Nodes should be operating as Validator Nodes when they should so operate.
 
 ## Sovrin Steward Onboarding Process
 
